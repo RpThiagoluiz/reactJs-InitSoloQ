@@ -1,5 +1,7 @@
 import React, { Fragment } from 'react'
 
+import './app.css'
+
 
 function App() {
   return (
