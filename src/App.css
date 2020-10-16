@@ -1,0 +1,21 @@
+body {
+   background: linear-gradient(rgb(170, 150, 89), rgb(223, 205, 190)) no-repeat;
+   height: 100vh;
+   width: 100vw;
+   overflow: hidden;
+}
+
+h1 {
+   text-align: center;
+   margin:1.75em;
+   letter-spacing:0.75px;
+   font-weight: 900;
+   text-shadow: 2px 2px 8px #000;
+}
+
+.Cards {
+   display: flex;
+   justify-content: center;
+   text-align: center;
+   flex-wrap: wrap;
+}
